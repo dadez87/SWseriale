@@ -1,6 +1,7 @@
 // Created by Davide Cavaliere
 // E-mail: dadez87@gmail.com
 // Website: www.monocilindro.com
+// 27 September 2016
 
 #ifndef SWSERIALE_cpp
 #define SWSERIALE_cpp
