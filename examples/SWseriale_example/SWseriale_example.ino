@@ -8,7 +8,7 @@
 // RX -> Pin 3
 // TX -> Pin 4
 
-#include "SWseriale/SWseriale.h" // SWseriale library
+#include <SWseriale.h> // SWseriale library
 
 void setup() {
   
